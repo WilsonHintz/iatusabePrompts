@@ -1,0 +1,10 @@
+act as a senior business analyst and write the requirements for an e-commerce whith the following features:
+
+1- Login with user password
+2- Store with items list with 1 photo per item
+3- items with price, description, add to cart button
+4- Your cart icon top right 
+5- check out with items list, sub total and check out button
+
+
+Based on the requirements, act as a senior business analyst and write 1 User story for login feature, 1 User story for Item Catalog
